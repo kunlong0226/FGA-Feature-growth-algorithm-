@@ -21,7 +21,6 @@ This code is intended to reproduce the experiments and results reported in the m
 Please cite our paper when using this code:
 
 ## Data
-
 The wafer images used in this work are obtained from the publicly available **WM811K dataset**.  
-- Dataset link: [WM811K Dataset]([https://datahub.io/dataset/wm811k](http://mirlab.org/dataSet/public/))  
+- Dataset link: [WM811K Dataset](https://datahub.io/dataset/wm811k)  
 
