@@ -12,7 +12,7 @@ This repository contains the code associated with the manuscript submitted to *T
 
 **Manuscript:**  
 [Data augmentation based on feature growing algorithm to improve imbalanced wafer map defect detection]  
-**Journal:** *The Visual Computer*  
+**Journal:** *Journal of Electronic Imaging*  
 
 This code is intended to reproduce the experiments and results reported in the manuscript. Users are encouraged to cite the manuscript if they use this code in their work.
 
