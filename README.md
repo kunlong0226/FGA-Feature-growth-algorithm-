@@ -8,7 +8,7 @@ A Feature Growth Algorithm for Feature Enhancement in Wafer Images\\
 #counter_fill.py is used to fill the contours of an image.\\
 # Edge Growth and Multimodal Image Processing Code
 
-This repository contains the code associated with the manuscript submitted to *The Visual Computer*. 
+This repository contains the code associated with the manuscript submitted to *Journal of Electronic Imaging*. 
 
 **Manuscript:**  
 [Data augmentation based on feature growing algorithm to improve imbalanced wafer map defect detection]  
